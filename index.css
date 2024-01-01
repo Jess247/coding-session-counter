@@ -1,5 +1,5 @@
 body {
-    background-image: url("yarn.jpeg");
+    background-image: url("https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -9,7 +9,7 @@ body {
 .container {
     background: white;
     max-width: 80%;
-    margin: auto;
+    margin: 1rem auto;
     border: 3px solid black;
     border-radius: 10px;
 }
